@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hola Ed 
+Este es el inicio
 
 ![Captura de pantalla (2213)](https://github.com/ajimenezDS/ajimenezDS/assets/116829203/4926b3fa-ca76-45b5-b8db-9f7d93e0f667)
+
 <!--
 **ajimenezDS/ajimenezDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
